@@ -44,7 +44,7 @@ and unannotation are all you need.
 In the subsequent sections of this report, the work and results of each
 task in this assignment will be presented.
 
-**Task 1 -- Acquisition**
+## Task 1 -- Acquisition
 
 In this task, an open-source GNSS SDR is implemented to perform GNSS
 signal acquisition. The acquisition results of Open-Sky and Urban are
@@ -59,7 +59,7 @@ ratios.
 
 As one can see, the list of satellite to search for is 1:32.
 
-**Task 2 -- Tracking**
+## Task 2 -- Tracking
 
 In this task, an open-source GNSS SDR is implemented to perform GNSS
 signal tracking. The tracking results of Open-Sky and Urban are saved in
@@ -110,7 +110,7 @@ interference.
 <img src="https://github.com/TheX1an/AAE6102-Assignment-1-LI-Bingxian/blob/main/media/image23.png">
 <img src="https://github.com/TheX1an/AAE6102-Assignment-1-LI-Bingxian/blob/main/media/image24.png">
 
-**Task 3 -- Navigation Data Decoding**
+## Task 3 -- Navigation Data Decoding
 
 In this task, an open-source GNSS SDR is implemented to perform
 navigation data decoding. The decoding results of Open-Sky and Urban are
@@ -122,7 +122,7 @@ Loading **Task_3_navigation_data_decoding.mat,** one can get a struct
 
 <img src="https://github.com/TheX1an/AAE6102-Assignment-1-LI-Bingxian/blob/main/media/image25.png">
 
-**Task 4 -- Position and Velocity Estimation**
+## Task 4 -- Position and Velocity Estimation
 
 In this task, an open-source GNSS SDR is implemented to perform position
 and velocity estimation using WLS. The estimation results of Open-Sky
@@ -160,7 +160,7 @@ environments. These interferences result in much higher estimation
 errors in position and velocity, underscoring the need for advanced
 positioning techniques such as multipath mitigation and NLOS estimation.
 
-**Task 5 -- Kalman Filter-Based Positioning**
+## Task 5 -- Kalman Filter-Based Positioning
 
 In this task, a self-developed EKF is implemented to estimate position
 and velocity. The EKF implementation can be found in the file EKFPos.m.
