@@ -39,7 +39,7 @@ them can be changed simply by revising the code of **initSettings.m**
 (function). The code that needs to be revised is shown below. Annotation
 and unannotation are all you need.
 
-<img src="https://example.com/your-image.png">
+<img src="https://github.com/TheX1an/AAE6102-Assignment-1-LI-Bingxian/blob/main/media/image1.png">
 
 In the subsequent sections of this report, the work and results of each
 task in this assignment will be presented.
