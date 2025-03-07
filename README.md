@@ -55,8 +55,7 @@ Loading **Task_1_acquisition.mat,** one can get a struct **acqResults,**
 which includes carrier frequencies, code phases, and correlation peak
 ratios.
 
-![图形用户界面, 文本, 应用程序, 电子邮件 AI
-生成的内容可能不正确。](media/image2.png)
+<img src="https://github.com/TheX1an/AAE6102-Assignment-1-LI-Bingxian/blob/main/media/image2.png">
 
 As one can see, the list of satellite to search for is 1:32.
 
@@ -70,8 +69,7 @@ are the same: **Task_2_tracking.mat.**
 Loading **Task_2_tracking.mat,** one can get a struct **trkResults,**
 which includes key information about the tracked signal.
 
-![图形用户界面, 应用程序, 表格, Excel AI
-生成的内容可能不正确。](media/image3.png)
+<img src="https://github.com/TheX1an/AAE6102-Assignment-1-LI-Bingxian/blob/main/media/image3.png">
 
 As one can see, there are 12 channels.
 
@@ -81,16 +79,15 @@ open sky areas, the prompt is much stronger than the early and late.
 This indicates that there is less interference, such as multipath
 effects.
 
-![图表, 直方图 AI
-生成的内容可能不正确。](media/image4.png)![图表, 直方图 AI
-生成的内容可能不正确。](media/image5.png)![图表, 直方图 AI
-生成的内容可能不正确。](media/image6.png)![图表, 直方图 AI
-生成的内容可能不正确。](media/image7.png)![图表 AI
-生成的内容可能不正确。](media/image8.png)![图表 AI
-生成的内容可能不正确。](media/image9.png)![图表 AI
-生成的内容可能不正确。](media/image10.png)![图表 AI
-生成的内容可能不正确。](media/image11.png)![图表 AI
-生成的内容可能不正确。](media/image12.png)
+<img src="https://github.com/TheX1an/AAE6102-Assignment-1-LI-Bingxian/blob/main/media/image4.png">
+<img src="https://github.com/TheX1an/AAE6102-Assignment-1-LI-Bingxian/blob/main/media/image5.png">
+<img src="https://github.com/TheX1an/AAE6102-Assignment-1-LI-Bingxian/blob/main/media/image6.png">
+<img src="https://github.com/TheX1an/AAE6102-Assignment-1-LI-Bingxian/blob/main/media/image7.png">
+<img src="https://github.com/TheX1an/AAE6102-Assignment-1-LI-Bingxian/blob/main/media/image8.png">
+<img src="https://github.com/TheX1an/AAE6102-Assignment-1-LI-Bingxian/blob/main/media/image9.png">
+<img src="https://github.com/TheX1an/AAE6102-Assignment-1-LI-Bingxian/blob/main/media/image10.png">
+<img src="https://github.com/TheX1an/AAE6102-Assignment-1-LI-Bingxian/blob/main/media/image11.png">
+<img src="https://github.com/TheX1an/AAE6102-Assignment-1-LI-Bingxian/blob/main/media/image12.png">
 
 The correlation results of signal tracking on the Urban dataset are
 shown below. It is obvious that, in the case of GNSS signal tracking in
@@ -100,31 +97,18 @@ effects. For example, in channel 12, 11, 9, 8, the early and late are
 almost as strong as prompt, which indicates strong multipath
 interference.
 
-![图表 AI
-生成的内容可能不正确。](media/image13.png){width="2.8346456692913384in"
-height="2.1258136482939634in"}![图表 AI
-生成的内容可能不正确。](media/image14.png){width="2.8346456692913384in"
-height="2.126496062992126in"}![图表 AI
-生成的内容可能不正确。](media/image15.png){width="2.8346456692913384in"
-height="2.126496062992126in"}![图表 AI
-生成的内容可能不正确。](media/image16.png){width="2.8346456692913384in"
-height="2.126496062992126in"}![图表 AI
-生成的内容可能不正确。](media/image17.png){width="2.8346456692913384in"
-height="2.126496062992126in"}![图表, 箱线图 AI
-生成的内容可能不正确。](media/image18.png){width="2.8346456692913384in"
-height="2.126496062992126in"}![图表 AI
-生成的内容可能不正确。](media/image19.png){width="2.8346456692913384in"
-height="2.126496062992126in"}![图表 AI
-生成的内容可能不正确。](media/image20.png){width="2.8346456692913384in"
-height="2.126496062992126in"}![图表 AI
-生成的内容可能不正确。](media/image21.png){width="2.8346456692913384in"
-height="2.126496062992126in"}![图表 AI
-生成的内容可能不正确。](media/image22.png){width="2.8346456692913384in"
-height="2.126496062992126in"}![图表 AI
-生成的内容可能不正确。](media/image23.png){width="2.8346456692913384in"
-height="2.126496062992126in"}![图表, 直方图 AI
-生成的内容可能不正确。](media/image24.png){width="2.8346456692913384in"
-height="2.1258136482939634in"}
+<img src="https://github.com/TheX1an/AAE6102-Assignment-1-LI-Bingxian/blob/main/media/image13.png">
+<img src="https://github.com/TheX1an/AAE6102-Assignment-1-LI-Bingxian/blob/main/media/image14.png">
+<img src="https://github.com/TheX1an/AAE6102-Assignment-1-LI-Bingxian/blob/main/media/image15.png">
+<img src="https://github.com/TheX1an/AAE6102-Assignment-1-LI-Bingxian/blob/main/media/image16.png">
+<img src="https://github.com/TheX1an/AAE6102-Assignment-1-LI-Bingxian/blob/main/media/image17.png">
+<img src="https://github.com/TheX1an/AAE6102-Assignment-1-LI-Bingxian/blob/main/media/image18.png">
+<img src="https://github.com/TheX1an/AAE6102-Assignment-1-LI-Bingxian/blob/main/media/image19.png">
+<img src="https://github.com/TheX1an/AAE6102-Assignment-1-LI-Bingxian/blob/main/media/image20.png">
+<img src="https://github.com/TheX1an/AAE6102-Assignment-1-LI-Bingxian/blob/main/media/image21.png">
+<img src="https://github.com/TheX1an/AAE6102-Assignment-1-LI-Bingxian/blob/main/media/image22.png">
+<img src="https://github.com/TheX1an/AAE6102-Assignment-1-LI-Bingxian/blob/main/media/image23.png">
+<img src="https://github.com/TheX1an/AAE6102-Assignment-1-LI-Bingxian/blob/main/media/image24.png">
 
 **Task 3 -- Navigation Data Decoding**
 
@@ -136,9 +120,7 @@ name: **Task_3_navigation_data_decoding.mat.**
 Loading **Task_3_navigation_data_decoding.mat,** one can get a struct
 **dcdResults,** which includes TOW, ephemeris, et al.
 
-![日历 AI
-生成的内容可能不正确。](media/image25.png){width="5.768055555555556in"
-height="3.1375in"}
+<img src="https://github.com/TheX1an/AAE6102-Assignment-1-LI-Bingxian/blob/main/media/image25.png">
 
 **Task 4 -- Position and Velocity Estimation**
 
@@ -156,28 +138,20 @@ V_z_wls, V_wls.
 Receiver position of the Open-Sky dataset estimated by WLS is shown
 below.
 
-![图表, 散点图 AI
-生成的内容可能不正确。](media/image26.png){width="4.724409448818897in"
-height="3.5441601049868767in"}
+<img src="https://github.com/TheX1an/AAE6102-Assignment-1-LI-Bingxian/blob/main/media/image26.png">
 
 Receiver velocity of the Open-Sky dataset estimated by WLS is shown
 below.
 
-![图表 AI
-生成的内容可能不正确。](media/image27.png){width="4.724409448818897in"
-height="3.5441601049868767in"}
+<img src="https://github.com/TheX1an/AAE6102-Assignment-1-LI-Bingxian/blob/main/media/image27.png">
 
 Receiver position of the Urban dataset estimated by WLS is shown below.
 
-![图表, 散点图 AI
-生成的内容可能不正确。](media/image28.png){width="4.724409448818897in"
-height="3.5441601049868767in"}
+<img src="https://github.com/TheX1an/AAE6102-Assignment-1-LI-Bingxian/blob/main/media/image28.png">
 
 Receiver velocity of the Urban dataset estimated by WLS is shown below.
 
-![图表, 直方图 AI
-生成的内容可能不正确。](media/image29.png){width="4.724409448818897in"
-height="3.5441601049868767in"}
+<img src="https://github.com/TheX1an/AAE6102-Assignment-1-LI-Bingxian/blob/main/media/image29.png">
 
 Compared to the results from the Open-Sky dataset, the variance in
 position and velocity estimations for the Urban dataset is significantly
