@@ -3,7 +3,7 @@
 ## Introduction
 
 The code of assignment 1 is uploaded in this repository (to get the code 
-AND the task results saved in .MAT, please go to 
+**AND** the task results saved in .MAT, please go to 
 https://www.dropbox.com/scl/fi/2w35l1gagk63vhvjbavrc/Assignment_1_LI_Bingxian.rar?rlkey=asgbfupz9i3jby81muu699ihf&st=tyyd9sy8&dl=0). 
 To run the GNSS SDR to get the assignment results, just run the MATLAB script:
 **main.m**. Four .mat files will be generated and saved after running
