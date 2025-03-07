@@ -39,9 +39,7 @@ them can be changed simply by revising the code of **initSettings.m**
 (function). The code that needs to be revised is shown below. Annotation
 and unannotation are all you need.
 
-![图形用户界面, 文本, 应用程序 AI
-生成的内容可能不正确。](media/image1.png){width="5.768055555555556in"
-height="2.5541666666666667in"}
+<img src="https://example.com/your-image.png" alt="描述" style="width:5.768055555555556in; height:2.5541666666666667in;">
 
 In the subsequent sections of this report, the work and results of each
 task in this assignment will be presented.
