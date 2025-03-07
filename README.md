@@ -56,9 +56,7 @@ which includes carrier frequencies, code phases, and correlation peak
 ratios.
 
 ![图形用户界面, 文本, 应用程序, 电子邮件 AI
-生成的内容可能不正确。](media/image2.png){width="2.2667311898512685in"
-height="1.1394597550306211in"}
-<img src="https://github.com/TheX1an/AAE6102-Assignment-1-LI-Bingxian/blob/main/media/image2.png" alt="描述" style="width:2.2667311898512685in; height:1.1394597550306211in;">
+生成的内容可能不正确。](media/image2.png)
 
 As one can see, the list of satellite to search for is 1:32.
 
