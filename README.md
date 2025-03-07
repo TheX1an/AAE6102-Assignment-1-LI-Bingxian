@@ -1,6 +1,6 @@
 # Assignment 1 Technical Report
 
-**Introduction**
+## Introduction
 
 The code of assignment 1 is uploaded in this repository. To run the GNSS
 SDR to get the assignment results, just run the MATLAB script:
