@@ -39,7 +39,8 @@ them can be changed simply by revising the code of **initSettings.m**
 (function). The code that needs to be revised is shown below. Annotation
 and unannotation are all you need.
 
-(vertopal_9c5672c262a24220a5a62f1b0041f9d8/media/image1.png){width="5.768055555555556in"
+![图形用户界面, 文本, 应用程序, 电子邮件 AI
+生成的内容可能不正确。](vertopal_9c5672c262a24220a5a62f1b0041f9d8/media/image1.png){width="5.768055555555556in"
 height="2.5541666666666667in"}
 
 In the subsequent sections of this report, the work and results of each
