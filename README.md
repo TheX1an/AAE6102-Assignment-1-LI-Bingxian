@@ -1,4 +1,4 @@
-**Assignment 1 Technical Report**
+# Assignment 1 Technical Report
 
 **Introduction**
 
