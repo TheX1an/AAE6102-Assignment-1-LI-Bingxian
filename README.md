@@ -39,7 +39,8 @@ them can be changed simply by revising the code of **initSettings.m**
 (function). The code that needs to be revised is shown below. Annotation
 and unannotation are all you need.
 
-<img src="https://github.com/TheX1an/AAE6102-Assignment-1-LI-Bingxian/blob/main/media/image1.png" alt="描述" style="width:5.768055555555556in; height:2.5541666666666667in;">
+![图形用户界面, 文本, 应用程序, 电子邮件 AI
+生成的内容可能不正确。](media/image1.png)
 
 In the subsequent sections of this report, the work and results of each
 task in this assignment will be presented.
@@ -71,8 +72,7 @@ Loading **Task_2_tracking.mat,** one can get a struct **trkResults,**
 which includes key information about the tracked signal.
 
 ![图形用户界面, 应用程序, 表格, Excel AI
-生成的内容可能不正确。](media/image3.png){width="5.768055555555556in"
-height="1.7715277777777778in"}
+生成的内容可能不正确。](media/image3.png)
 
 As one can see, there are 12 channels.
 
@@ -83,24 +83,15 @@ This indicates that there is less interference, such as multipath
 effects.
 
 ![图表, 直方图 AI
-生成的内容可能不正确。](media/image4.png){width="2.874015748031496in"
-height="2.156040026246719in"}![图表, 直方图 AI
-生成的内容可能不正确。](media/image5.png){width="2.874015748031496in"
-height="2.1560411198600176in"}![图表, 直方图 AI
-生成的内容可能不正确。](media/image6.png){width="2.8346456692913384in"
-height="2.126496062992126in"}![图表, 直方图 AI
-生成的内容可能不正确。](media/image7.png){width="2.8346456692913384in"
-height="2.126496062992126in"}![图表 AI
-生成的内容可能不正确。](media/image8.png){width="2.8346456692913384in"
-height="2.126496062992126in"}![图表 AI
-生成的内容可能不正确。](media/image9.png){width="2.8346456692913384in"
-height="2.126496062992126in"}![图表 AI
-生成的内容可能不正确。](media/image10.png){width="2.8346456692913384in"
-height="2.126496062992126in"}![图表 AI
-生成的内容可能不正确。](media/image11.png){width="2.8346456692913384in"
-height="2.126496062992126in"}![图表 AI
-生成的内容可能不正确。](media/image12.png){width="2.8346456692913384in"
-height="2.126496062992126in"}
+生成的内容可能不正确。](media/image4.png)![图表, 直方图 AI
+生成的内容可能不正确。](media/image5.png)![图表, 直方图 AI
+生成的内容可能不正确。](media/image6.png)![图表, 直方图 AI
+生成的内容可能不正确。](media/image7.png)![图表 AI
+生成的内容可能不正确。](media/image8.png)![图表 AI
+生成的内容可能不正确。](media/image9.png)![图表 AI
+生成的内容可能不正确。](media/image10.png)![图表 AI
+生成的内容可能不正确。](media/image11.png)![图表 AI
+生成的内容可能不正确。](media/image12.png)
 
 The correlation results of signal tracking on the Urban dataset are
 shown below. It is obvious that, in the case of GNSS signal tracking in
